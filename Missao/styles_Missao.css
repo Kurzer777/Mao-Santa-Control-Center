@@ -1,0 +1,113 @@
+.Tab_Missao{
+
+
+width: 180px;
+
+height: 25px;
+
+
+
+border: 2px solid black;
+
+text-align: center;
+
+
+}
+
+
+
+#Table_Missao_Nome{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Missao_Cliente{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Missao_Endereco{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Missao_Parceiro{
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Missao_Servico{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Missao_Visito{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Missao_Pronto{
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Missao{
+
+margin: 10px;
+
+width: 1400px;
+
+height: 200px;
+
+}
+
+
+
+
+
+
+
+
+
+
+

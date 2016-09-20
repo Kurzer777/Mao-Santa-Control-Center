@@ -1,0 +1,174 @@
+.form-control{
+
+width: 200px;
+
+}
+
+
+.Tab_Parceiros{
+
+
+width: 180px;
+
+height: 25px;
+
+
+
+border: 2px solid black;
+
+text-align: center;
+
+
+}
+
+.Tab_Parceiros_statusA{
+
+
+width: 180px;
+
+height: 25px;
+
+
+
+border: 2px solid black;
+
+text-align: center;
+
+background-color: #00FFAF;
+
+
+}
+
+
+.Tab_Parceiros_statusB{
+
+
+width: 180px;
+
+height: 25px;
+
+
+
+border: 2px solid black;
+
+text-align: center;
+
+background-color: #FF3F00;
+
+
+}
+
+
+.Tab_Parceiros_status{
+
+
+width: 180px;
+
+height: 25px;
+
+
+
+border: 2px solid black;
+
+text-align: center;
+
+
+}
+
+
+
+
+
+#Table_Parceiros_Nome{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Parceiros_Email{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Parceiros_Telefone{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Parceiros_Endereco{
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Parceiros_Servico{
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Parceiros_Status{
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Parceiros{
+
+margin: 10px;
+
+width: 1200px;
+
+
+}
+
+
+#table_area_parceiros{
+
+
+margin-top: 250px;
+
+}
+
+
+#Ausgabe_Create_Parceiros{
+
+background-color: #00FFAF;
+
+
+
+}
+
+
+
+
+
