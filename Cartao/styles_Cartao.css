@@ -1,0 +1,87 @@
+.Tab_Cartao{
+
+
+width: 180px;
+
+height: 25px;
+
+
+
+border: 2px solid black;
+
+text-align: center;
+
+
+}
+
+
+
+#Table_Cartao_Nome{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Cartao_Email{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Cartao_Telefone{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Cartao_Comentario{
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Cartao{
+
+margin: 10px;
+
+width: 800px;
+
+
+
+}
+
+
+
+#table_area_cartao{
+
+
+
+margin-top: 250px;
+
+}
+
+
+
+
+
+
+

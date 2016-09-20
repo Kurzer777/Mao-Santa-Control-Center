@@ -1,0 +1,96 @@
+.Tab_Clientes{
+
+
+width: 180px;
+
+height: 25px;
+
+
+
+border: 2px solid black;
+
+text-align: center;
+
+
+}
+
+
+
+#Table_Clientes_Nome{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Clientes_Email{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Clientes_Telefone{
+
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Clientes_Endereco{
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Clientes_Comentario{
+
+float: left;
+
+width: 180px;
+
+margin: 10px;
+
+}
+
+#Table_Clientes{
+
+margin: 10px;
+
+width: 1000px;
+
+
+}
+
+
+#table_area_clientes{
+
+
+margin-top: 250px;
+
+}
+
+
+
+
+
+
+
+
+
